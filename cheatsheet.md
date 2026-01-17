@@ -21,10 +21,10 @@ ensure you are in command/normal mode, not insert or ex mode.
 
 ### Inserting Text at Specific Positions
 
-- i
-- I
-- a
-- A
-- o
-- O
+- i	->	Insert at cursor.
+- I	->	Insert before the first non-whitespace character in the current line
+- a	->	Append text after the cursor.
+- A	->	Append text at the end of the current line.
+- o	->	Open a new line below the postition.
+- O	->	Open a new line above the current line.
 
