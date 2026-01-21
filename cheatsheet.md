@@ -64,7 +64,11 @@ research ToDo:
 5. the ~/.vimrc file to customize Vim's behavior
 6. macros to automate complex sequences of commands
 
+also Vimtutor, Vimcasts, and the books 'Practical Vim' & 'Modern Vim'
 
+### How Kerr Manages His Vim Configs
+
+(https://github.com/dwmkerr/dotfiles)
 
 
 
