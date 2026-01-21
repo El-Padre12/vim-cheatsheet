@@ -54,6 +54,15 @@ with search motions you can quickly select a range of character for an operator 
 - `tcharacter`	->	Move forward to just before character.
 - `Tcharacter`	->	Move backward to just before character.
 
+## Going Further With Vim
+
+research ToDo:
+1. the dot command to repeat your last change
+2. visual mode to highlight text selections
+3. yank and paste and registers to extend basic clipboard behavior
+4. search and replace to make changes across your files more effeciently
+5. the ~/.vimrc file to customize Vim's behavior
+6. macros to automate complex sequences of commands
 
 
 
