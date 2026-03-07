@@ -54,6 +54,13 @@ with search motions you can quickly select a range of character for an operator 
 - `tcharacter`	->	Move forward to just before character.
 - `Tcharacter`	->	Move backward to just before character.
 
+## My Additions
+
+### Multi Line Indenting
+- set shit width to 2(or whatever you want) by typing ```bash :set sw=2 ``` or adding ```bash set shiftwidth=2 ``` to your `~/.vimrc` file.
+  enter visual mode and move your cursor to the first line you want to indent and type capital `V`.
+  move your cursor up or down, then press `>` to indent or `<` to un-indent
+
 ## Going Further With Vim
 
 research ToDo:
